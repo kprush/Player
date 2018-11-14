@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\bin\Debug\Program_muzyczny.exe.config
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\bin\Debug\Program_muzyczny.exe
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\bin\Debug\Program_muzyczny.pdb
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.Form1.resources
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.Properties.Resources.resources
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.exe
+C:\Users\admin\source\repos\Program_muzyczny\Program_muzyczny\obj\Debug\Program_muzyczny.pdb
